@@ -1,0 +1,58 @@
+Why Use Linux?
+
+Why use Linux? What advantages can Linux offer? Here are 10 benefits of using the OS.
+It Runs on Any Hardware
+
+Linux is compatible with virtually every hardware device on the market today. That includes:
+
+    Windows PCs and Laptops
+    Macs
+    Windows Tablets
+    Chromebook
+    Non-Android Phones and Tablets
+    Gaming consoles—even the Wii can run Linux!
+
+With such universal coverage, Linux is likely the most versatile OS to date. This versatility is due to its open-source structure (which we’ll get to in the next point). So if you want to learn how to run a single operating system with the most use cases, Linux is a great choice.
+Open Source
+
+Linux is an open-source OS. With no restrictions on how you use the software, anyone can run and modify the source code for their own purposes. Being open-source allows Linux to meet the developer’s needs completely, a luxury you could never enjoy with proprietary OS software.
+Customizable
+
+Because of the OS’s open-source nature, developers have exceptional flexibility in customization options. These customizations start with aesthetic preferences, like changing your desktop environment or the colors of your terminal. With Linux filesystem, you can alter the functionality and interface of specific applications, like your trash bin and other desktop applications.
+
+There are also functional customizations possible with Linux, allowing you to alter the source code and optimize the OS for whatever hardware you plan to install it on. How else could Linux run on virtually every kind of hardware?
+
+Linux’s customizations also make it ideal for virtually any software you wish to use. Design, video editing, gaming, and other use cases can run incredibly smoothly on Linux—you can customize it to be whatever you need.
+Educational
+
+Linux is great for beginner developers as it can teach you how an operating system works. You can easily look at the source code to study its structure, dissecting it piece by piece to understand what makes Linux tick.
+
+Once you’re familiar and comfortable with the source code, you can slowly try to alter it to customize the OS for more specific use cases. The open-source model allows for infinite learning and testing, whether developing a new application or running the OS on a different piece of hardware.
+Secure
+
+Some people may fear that since anyone can access Linux’s source code, the OS is prone to hackers. But that’s not the case—since so many eyes are on the source code, one can identify vulnerabilities and deal with them promptly. The result is a more robust code that’s less susceptible to cyber-attacks.
+
+Linux also has clearly-defined privileges to restrict access to those who don’t belong. Root-level access, the equivalent of administrator privileges in other operating systems, is hyper-specific to the developer. Every other user of the system is only given lower-level, limited access.
+Reliable
+
+Linux is famously reliable compared to other operating systems, with most users experiencing fewer issues. Part of this reliability is because Linux strongly focuses on background process management. Other operating systems will use background processes continuously during a session. Linux will only use a process for as long as necessary, disabling it until it’s needed once again.
+
+Windows and OS X have a particular “hand-holding” approach to computing, meant to make your life easier. But you’ll run into unnecessary roadblocks if you want to perform a task outside of those set parameters. Linux doesn’t force its programming to interrupt your processes and lets you compute how you want.
+Easy to Install
+
+Linux couldn’t be easier to install. While the process is fairly involved, the means of distribution are quite accessible. A wide variety of distributors can give you access to Linux, including Fedora, Ubuntu, Arch Linux, and Linux Mint.
+
+The installation process depends on your distribution model, so follow the steps outlined by whichever model you choose.
+Strong Community Support
+
+Linux attracts loyal and enthusiastic community members who want to see the operating system soar. This enthusiasm has produced countless help and knowledge-sharing forums to assist Linux users, both beginners and veterans, in using the OS to its full potential.
+
+There’s also the Linux Foundation, a platform committed to bolstering technology projects with open-source software.
+Easy to Use
+
+Linux has developed a certain reputation that it’s designed for hardcore developers. While it may have been true during its inception, it’s no longer the case. Linux is a well-designed user experience with pre-installed tools and applications to help you get your feet wet with the OS.
+
+Additionally, downloading updates for Linux is arguably more straightforward than the Windows update process. Linux can install updates in the background while you work, so you won’t have to stop everything as your computer forces an auto-update.
+Free
+
+The best part? Linux is free! You can install the OS on as many platforms as you like with zero costs. Installing Linux is zero risk, high reward—the best of both worlds.
